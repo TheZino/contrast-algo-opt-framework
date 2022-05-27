@@ -13,8 +13,9 @@ Official code implementation from the paper "A Framework for Contrast Enhancemen
 The dataset is divided in three folders:
 - Average best images, obtained as the average acceptable image from dataset original annotations.
 - Test set folder.
+- Original images processed by Jaroensri et al.
 
-The original images used for training the regressor can be found at Jaroensri et al. [project page](http://projects.csail.mit.edu/acceptable-adj/).
+The original images used for training the regressor can be found atJaroensri et al. [project page](http://projects.csail.mit.edu/acceptable-adj/).
 
 Dataset images [Google Drive](https://drive.google.com/drive/folders/1wlJdHcUR-hZkSiFNKIzw3YGd30iJ260T?usp=sharing)
 
