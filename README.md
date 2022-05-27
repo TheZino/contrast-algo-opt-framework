@@ -15,7 +15,7 @@ The dataset is divided in three folders:
 - Test set folder.
 - Original images from [Jaroensri et al.](http://projects.csail.mit.edu/acceptable-adj/), used for training the regressor.
 
-Dataset images[Google Drive](https://drive.google.com/drive/folders/1wlJdHcUR-hZkSiFNKIzw3YGd30iJ260T?usp=sharing)
+Dataset images [Google Drive](https://drive.google.com/drive/folders/1wlJdHcUR-hZkSiFNKIzw3YGd30iJ260T?usp=sharing)
 
 ## Reference
 
