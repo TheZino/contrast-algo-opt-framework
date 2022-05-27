@@ -1,6 +1,7 @@
 # Code from paper "A Framework for Contrast Enhancement Algorithms Optimization"
 
-Official code implementation from the paper "A Framework for Contrast Enhancement Algorithms Optimization"
+Official code implementation from the paper "A Framework for Contrast Enhancement Algorithms Optimization", now under review.
+Complete code will be uploaded soon.
 
 ## Requirements
 
