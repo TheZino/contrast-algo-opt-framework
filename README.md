@@ -20,6 +20,28 @@ The original images used for training the regressor can be found atJaroensri et 
 
 Dataset images [Google Drive](https://drive.google.com/drive/folders/1wlJdHcUR-hZkSiFNKIzw3YGd30iJ260T?usp=sharing)
 
+## How to
+
+### Regressor training
+
+In order to train and use the linear regressor execute the two scripts:
+1. `NN_feature_extraction.py`: dataset feature extraction procedure for linear regressor training. 
+2. `train_regressor.m`: runs the training procedure and saves model weights.
+
+
+
+### Pretrained Regressor weights
+
+The pretrained weights can be downloaded [here](https://drive.google.com/drive/folders/1dhtw2R-mC7tkvJCJ8_pfIBhikEAYRlXa?usp=sharing).
+
+### Algoirhtms optimization
+In order to run the optimization, two procedure are provided:
+1. `function_fit_on_dataset.m`
+2. `function_fit_on_image.m`
+
+The first one is used to optimize algorithms on the entire dataset while the second one to optimize algorithms per image.
+Set the `algorithm` variable to the desired one in order to switch between the implemented algorithms.
+
 ## Reference
 
 Please if you use the provided code cite
