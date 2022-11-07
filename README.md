@@ -1,7 +1,6 @@
 # Code from paper "A Framework for Contrast Enhancement Algorithms Optimization"
 
-Official code implementation from the paper "A Framework for Contrast Enhancement Algorithms Optimization", now under review.
-Complete code will be uploaded soon.
+Official code implementation from the paper ["A Framework for Contrast Enhancement Algorithms Optimization"](https://ieeexplore.ieee.org/abstract/document/9897184), published at ICIP 2022.
 
 ## Requirements
 
