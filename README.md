@@ -47,5 +47,12 @@ Set the `algorithm` variable to the desired one in order to switch between the i
 Please if you use the provided code cite
 
 ```
-cite
+@inproceedings{zini2022framework,
+  title={A Framework for Contrast Enhancement Algorithms Optimization},
+  author={Zini, Simone and Buzzelli, Marco and Bianco, Simone and Schettini, Raimondo},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  pages={1431--1435},
+  year={2022},
+  organization={IEEE}
+}
 ```
